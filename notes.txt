@@ -1,0 +1,6 @@
+short curs
+open html from component alt+0
+component alt+U
+css alt+I
+
+dotnet watch run
